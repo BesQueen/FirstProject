@@ -3,6 +3,15 @@
 git config --global user.name BesQueen --깃허브 계정
 git config --global user.email kjh2012 --깃허브 이메일
 git clone https://github.com/BesQueen/FirstProject --다운로드
-git add Hello.txt -리모트 레파지터리
-git commit -m "Add Text File [Hello.txt]" -커밋
+
+git add Hello.txt --리모트 레파지터리
+git add . --모든 수정 내역 add
+git reset --add 명령어 취소
+git commit -m "Add Text File [Hello.txt]" --커밋
 git push -업로드
+
+git fetch --다운로드
+git merge --다운로드 commit
+git pull --위 2 명령 통합 버젼
+
+git status --상태확인
