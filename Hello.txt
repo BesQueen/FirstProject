@@ -1,0 +1,8 @@
+프로젝트 폴더에서 글로벌 환경 설정
+
+git config --global user.name BesQueen --깃허브 계정
+git config --global user.email kjh2012 --깃허브 이메일
+git clone https://github.com/BesQueen/FirstProject --다운로드
+git add Hello.txt -리모트 레파지터리
+git commit -m "Add Text File [Hello.txt]" -커밋
+git push -업로드
