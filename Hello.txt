@@ -18,4 +18,4 @@ git pull //위 2 명령 통합 버젼
 
 git status //상태확인
 
-//
+//hello
